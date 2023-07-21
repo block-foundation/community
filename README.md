@@ -1,9 +1,17 @@
 <div align="right">
 
+  [![license](https://img.shields.io/github/license/block-foundation/brand?color=green&label=license&style=flat-square)](LICENSE.md)
+  [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwww.blockfoundation.io)](https://www.blockfoundation.io)
+
+</div>
+
+
+---
+
+<div align="right">
+
   [![license](https://img.shields.io/github/license/block-foundation/community?color=green&label=license&style=flat-square)](LICENSE.md)
   ![stars](https://img.shields.io/github/stars/block-foundation/community?color=blue&label=stars&style=flat-square)
-  ![sponsors](https://img.shields.io/github/sponsors/geoid-org?color=blue&label=sponsors&style=flat-square)
-  ![contributors](https://img.shields.io/github/contributors/block-foundation/community?color=blue&label=contributors&style=flat-square)
 
 </div>
 
@@ -15,6 +23,11 @@
 <br>
 
 ---
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/block-foundation/community/master/res/community.jpg"width="100%" height="100%" alt="Form Follows Finance">
+</p>
+
 
 ## Disclaimer
 
