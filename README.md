@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/community/master/res/community.jpg"width="100%" height="100%" alt="Form Follows Finance">
+    <img src="https://raw.githubusercontent.com/block-foundation/community/master/res/block_foundation-community.jpg"width="100%" height="100%" alt="Form Follows Finance">
 </p>
 
 **A warm welcome to you as you join the Block Foundation Community!**
@@ -70,7 +70,7 @@ Except as otherwise noted, the content in this repository is licensed under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
 code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
 
-See [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE.md).
+Also see [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/LICENSE-CODE).
 
 ### Disclaimer
 
