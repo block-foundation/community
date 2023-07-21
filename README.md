@@ -62,14 +62,15 @@ As you have made it this far, we are profoundly grateful for your interest in co
 
 ### Copyright
 
-Copyright 2017, Google Cloud Community authors
+Copyright 2023, [Block Foundation Community Authors](https://github.com/block-foundation/community/blob/master/AUTHORS).
 
 ### License
 
-Except as otherwise noted, the content in this repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License, and code samples are licensed under the Apache 2.0 License.
+Except as otherwise noted, the content in this repository is licensed under the
+[Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
+code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
 
-See LICENSE.
-
+See [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE.md).
 
 ### Disclaimer
 
