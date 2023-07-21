@@ -56,9 +56,20 @@ Join us as we collaborate to unshackle traditional constraints and redefine arch
 
 ## Thanks
 
-We are profoundly grateful for your interest in contributing to the Block Foundation. Every contribution, irrespective of its scale, holds immense value to us. The intricate and specialized use-cases of the Block Foundation Community necessitate collective effort, and we sincerely appreciate your willingness to become a part of this endeavor. Your involvement can't be thanked enough and truly makes a significant difference. Thank you once again.
+As you have made it this far, we are profoundly grateful for your interest in contributing to the Block Foundation. Every contribution, irrespective of its scale, holds immense value to us. The intricate and specialized use-cases of the Block Foundation Community necessitate collective effort, and we sincerely appreciate your willingness to become a part of this endeavor. Your involvement can't be thanked enough and truly makes a significant difference. Thank you once again.
 
 ## Legal
+
+### Copyright
+
+Copyright 2017, Google Cloud Community authors
+
+### License
+
+Except as otherwise noted, the content in this repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License, and code samples are licensed under the Apache 2.0 License.
+
+See LICENSE.
+
 
 ### Disclaimer
 
