@@ -13,7 +13,6 @@
     <h1 align="left">Block Foundation Community</h1>
     <h3 align="left">Guidelines for the Community</h3>
 </div>
-<br>
 
 ---
 
