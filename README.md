@@ -28,7 +28,7 @@ Your expertise, perspectives, and innovative ideas are invaluable to us. Whether
 
 Join us as we collaborate to unshackle traditional constraints and redefine architectural possibilities with the transformative power of blockchain technology. Let's navigate this exciting path together, and make your mark on the Block Foundation Community.
 
-## Block Foundation Community Guidelines
+## Community Guidelines
 
 1. **Respectful Interactions**
    Our community is diverse and inclusive, and we expect all members to interact with each other respectfully, valuing everyone's ideas and perspectives. Personal attacks, harassment, or discriminatory language will not be tolerated.
