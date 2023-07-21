@@ -20,6 +20,14 @@
     <img src="https://raw.githubusercontent.com/block-foundation/community/master/res/community.jpg"width="100%" height="100%" alt="Form Follows Finance">
 </p>
 
+**A warm welcome to you as you join the Block Foundation Community!**
+
+You're stepping into an energetic, collaborative environment where your contributions will play a crucial role in shaping our future. This is where your journey as a community contributor commences, paving the path for the enhancement of our codebase, refining our documentation, and delivering influential talks that resonate with our mission and vision.
+
+Your expertise, perspectives, and innovative ideas are invaluable to us. Whether you're delving into our software architecture, curating insightful content for our documentation, or captivating audiences with enlightening presentations, your input will help foster our collective growth and the advancement of our foundation's objectives.
+
+Join us as we collaborate to unshackle traditional constraints and redefine architectural possibilities with the transformative power of blockchain technology. Let's navigate this exciting path together, and make your mark on the Block Foundation Community.
+
 ## Block Foundation Community Guidelines
 
 1. **Respectful Interactions**
@@ -45,6 +53,10 @@
 
 8. **Positive Participation**
   We value the contributions of all members. Participate actively, share your knowledge, and help foster a vibrant and enriching community environment.
+
+## Thanks
+
+Thanks so much for your interest in contributing tothe Block Foundation. We deeply value contributions of any size. It takes an army to support the deeply specialized use cases of the Tidbyt community and we can't thank you enough.
 
 ## Legal
 
