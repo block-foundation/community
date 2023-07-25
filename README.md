@@ -9,7 +9,7 @@
 ---
 
 <div>
-    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
+    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
     <h1 align="left">Block Foundation Community</h1>
     <h3 align="left">Guidelines for the Community</h3>
 </div>
@@ -58,17 +58,17 @@ Join us as we collaborate to unshackle traditional constraints and redefine arch
 
 As you have made it this far, we are profoundly grateful for your interest in contributing to the Block Foundation. Every contribution, irrespective of its scale, holds immense value to us. The intricate and specialized use-cases of the Block Foundation Community necessitate collective effort, and we sincerely appreciate your willingness to become a part of this endeavor. Your involvement can't be thanked enough and truly makes a significant difference. Thank you once again.
 
-## Legal
+## Legal Information
 
 ### Copyright
 
-Copyright 2023, [Block Foundation Community Authors](https://github.com/block-foundation/community/blob/master/AUTHORS).
+Copyright &copy; 2023 [Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
 
 ### License
 
 Except as otherwise noted, the content in this repository is licensed under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
-code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
+code samples are licensed under the [MIT License](https://opensource.org/license/mit/).
 
 Also see [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/LICENSE-CODE).
 
